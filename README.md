@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gutolizar
-- 👀 I’m interested in C, Python, JS, Fullstack development 
+- 👀 I’m interested in C, Python, JS, Fullstack Webdevelopment 
 - 🌱 I’m currently learning from Harvard 
 - 💞️ I’m looking to collaborate on webapps and stuff related to webapps
 - 📫 How to reach me >> instagram: @gutolizar
